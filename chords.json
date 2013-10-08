@@ -1,0 +1,398 @@
+[
+  {
+    "Name":"C",
+    "Notes":"C, E, G"
+  },
+  {
+    "Name":"Cm",
+    "Notes":"C, Eb, G"
+  },
+  {
+    "Name":"C7",
+    "Notes":"C, E, G, Bb"
+  },
+  {
+    "Name":"CM7",
+    "Notes":"C, E, G, B"
+  },
+  {
+    "Name":"Cm7",
+    "Notes":"C, Eb, G, Bb"
+  },
+  {
+    "Name":"Csus",
+    "Notes":"C, F, G"
+  },
+  {
+    "Name":"Csus7",
+    "Notes":"C, F, G, Bb"
+  },
+  {
+    "Name":"C6",
+    "Notes":"C, E, G, A"
+  },
+  {
+    "Name":"C2",
+    "Notes":"C, D, E, G"
+  },
+  {
+    "Name":"C#",
+    "Notes":"C#, F, G#"
+  },
+  {
+    "Name":"C#m",
+    "Notes":"C#, E, G#"
+  },
+  {
+    "Name":"C#7",
+    "Notes":"C#, F, G#, B"
+  },
+  {
+    "Name":"C#M7",
+    "Notes":"C#, F, G#, C"
+  },
+  {
+    "Name":"C#m7",
+    "Notes":"C#, E, G#, B"
+  },
+  {
+    "Name":"C#sus",
+    "Notes":"C#, F#, G#"
+  },
+  {
+    "Name":"C#sus7",
+    "Notes":"C#, F#, G#, B"
+  },
+  {
+    "Name":"C#6",
+    "Notes":"C#, F, G#, A#"
+  },
+  {
+    "Name":"C#2",
+    "Notes":"C#, D#, F, G#"
+  },
+  {
+    "Name":"D",
+    "Notes":"D, F#, A"
+  },
+  {
+    "Name":"Dm",
+    "Notes":"D, F, A"
+  },
+  {
+    "Name":"D7",
+    "Notes":"D, F#, A, C"
+  },
+  {
+    "Name":"DM7",
+    "Notes":"D, F#, A, C#"
+  },
+  {
+    "Name":"Dm7",
+    "Notes":"D, F, A, C"
+  },
+  {
+    "Name":"Dsus",
+    "Notes":"D, G, A"
+  },
+  {
+    "Name":"Dsus7",
+    "Notes":"D, G, A, C"
+  },
+  {
+    "Name":"D6",
+    "Notes":"D, F#, A, B"
+  },
+  {
+    "Name":"D2",
+    "Notes":"D, E, F#, A"
+  },
+  {
+    "Name":"E",
+    "Notes":"E, G#, B"
+  },
+  {
+    "Name":"Em",
+    "Notes":"E, G, B"
+  },
+  {
+    "Name":"E7",
+    "Notes":"E, G#, B, D"
+  },
+  {
+    "Name":"EM7",
+    "Notes":"E, G#, B, D#"
+  },
+  {
+    "Name":"Em7",
+    "Notes":"E, G, B, D"
+  },
+  {
+    "Name":"Esus",
+    "Notes":"E, A, B"
+  },
+  {
+    "Name":"Esus7",
+    "Notes":"E, A, B, D"
+  },
+  {
+    "Name":"E6",
+    "Notes":"E, G#, B, C#"
+  },
+  {
+    "Name":"E2",
+    "Notes":"E, F#, G#, B"
+  },
+  {
+    "Name":"Db",
+    "Notes":"Db, F, Ab"
+  },
+  {
+    "Name":"Dbm",
+    "Notes":"Db, E, Ab"
+  },
+  {
+    "Name":"Db7",
+    "Notes":"Db, F, Ab, B"
+  },
+  {
+    "Name":"DbM7",
+    "Notes":"Db, F, Ab, C"
+  },
+  {
+    "Name":"Dbm7",
+    "Notes":"Db, E, Ab, B"
+  },
+  {
+    "Name":"Dbsus",
+    "Notes":"Db, Gb, Ab"
+  },
+  {
+    "Name":"Dbsus7",
+    "Notes":"Db, Gb, Ab, B"
+  },
+  {
+    "Name":"Db6",
+    "Notes":"Db, F, Ab, Bb"
+  },
+  {
+    "Name":"Db2",
+    "Notes":"Db, Eb, F, Ab"
+  },
+  {
+    "Name":"Eb",
+    "Notes":"Eb, G, Bb"
+  },
+  {
+    "Name":"Ebm",
+    "Notes":"Eb, Gb, Bb"
+  },
+  {
+    "Name":"Eb7",
+    "Notes":"Eb, G, Bb, Db"
+  },
+  {
+    "Name":"EbM7",
+    "Notes":"Eb, G, Bb, D"
+  },
+  {
+    "Name":"Ebm7",
+    "Notes":"Eb, Gb, Bb, Db"
+  },
+  {
+    "Name":"Ebsus",
+    "Notes":"Eb, Ab, Bb"
+  },
+  {
+    "Name":"Ebsus7",
+    "Notes":"Eb, Ab, Bb, Db"
+  },
+  {
+    "Name":"Eb6",
+    "Notes":"Eb, G, Bb, C"
+  },
+  {
+    "Name":"Eb2",
+    "Notes":"Eb, F, G, Bb"
+  },
+  {
+    "Name":"F",
+    "Notes":"F, A, C"
+  },
+  {
+    "Name":"Fm",
+    "Notes":"F, Ab, C"
+  },
+  {
+    "Name":"F7",
+    "Notes":"F, A, C, Eb"
+  },
+  {
+    "Name":"FM7",
+    "Notes":"F, A, C, E"
+  },
+  {
+    "Name":"Fm7",
+    "Notes":"F, Ab, C, Eb"
+  },
+  {
+    "Name":"Fsus",
+    "Notes":"F, Bb, C"
+  },
+  {
+    "Name":"Fsus7",
+    "Notes":"F, Bb, C, Eb"
+  },
+  {
+    "Name":"F6",
+    "Notes":"F, A, C, D"
+  },
+  {
+    "Name":"F2",
+    "Notes":"F, G, A, C"
+  },
+  {
+    "Name":"G",
+    "Notes":"G, B, D"
+  },
+  {
+    "Name":"Gm",
+    "Notes":"G, Bb, D"
+  },
+  {
+    "Name":"G7",
+    "Notes":"G, B, D, F"
+  },
+  {
+    "Name":"GM7",
+    "Notes":"G, B, D, F#"
+  },
+  {
+    "Name":"Gm7",
+    "Notes":"G, Bb, D, F"
+  },
+  {
+    "Name":"Gsus",
+    "Notes":"G, C, D"
+  },
+  {
+    "Name":"Gsus7",
+    "Notes":"G, C, D, F"
+  },
+  {
+    "Name":"G6",
+    "Notes":"G, B, D, E"
+  },
+  {
+    "Name":"G2",
+    "Notes":"G, A, B, D"
+  },
+  {
+    "Name":"A",
+    "Notes":"A, C#, E"
+  },
+  {
+    "Name":"Am",
+    "Notes":"A, C, E"
+  },
+  {
+    "Name":"A7",
+    "Notes":"A, C#, E, G"
+  },
+  {
+    "Name":"AM7",
+    "Notes":"A, C#, E, G#"
+  },
+  {
+    "Name":"Am7",
+    "Notes":"A, C, E, G"
+  },
+  {
+    "Name":"Asus",
+    "Notes":"A, D, E"
+  },
+  {
+    "Name":"Asus7",
+    "Notes":"A, D, E, G"
+  },
+  {
+    "Name":"A6",
+    "Notes":"A, C#, E, F#"
+  },
+  {
+    "Name":"A2",
+    "Notes":"A, B, C#, E"
+  },
+  {
+    "Name":"F#",
+    "Notes":"F#, A#, C#"
+  },
+  {
+    "Name":"F#m",
+    "Notes":"F#, A, C#"
+  },
+  {
+    "Name":"F#7",
+    "Notes":"F#, A#, C#, E"
+  },
+  {
+    "Name":"F#M7",
+    "Notes":"F#, A#, C#, F"
+  },
+  {
+    "Name":"F#m7",
+    "Notes":"F#, A, C#, E"
+  },
+  {
+    "Name":"F#sus",
+    "Notes":"F#, B, C#"
+  },
+  {
+    "Name":"F#sus7",
+    "Notes":"F#, B, C#, E"
+  },
+  {
+    "Name":"F#6",
+    "Notes":"F#, A#, C#, D#"
+  },
+  {
+    "Name":"F#2",
+    "Notes":"F#, G#, A#, C#"
+  },
+  {
+    "Name":"Ab",
+    "Notes":"Ab, C, Eb"
+  },
+  {
+    "Name":"Abm",
+    "Notes":"Ab, B, Eb"
+  },
+  {
+    "Name":"Ab7",
+    "Notes":"Ab, C, Eb, Gb"
+  },
+  {
+    "Name":"AbM7",
+    "Notes":"Ab, C, Eb, G"
+  },
+  {
+    "Name":"Abm7",
+    "Notes":"Ab, B, Eb, Gb"
+  },
+  {
+    "Name":"Absus",
+    "Notes":"Ab, Db, Eb"
+  },
+  {
+    "Name":"Absus7",
+    "Notes":"Ab, Db, Eb, Gb"
+  },
+  {
+    "Name":"Ab6",
+    "Notes":"Ab, C, Eb, F"
+  },
+  {
+    "Name":"Ab2",
+    "Notes":"Ab, Bb, C, Eb"
+  }
+]
